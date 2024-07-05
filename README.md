@@ -2,9 +2,9 @@
 
 ## Rust and Rust-variants
 
-| Project              | Project review type           | Date              | Review type         | Result   |
-|----------------------|-------------------------------|-------------------|---------------------|----------|
-| REDACTED             | Smart contract - Solana       | May 2024          | Private audit       |          |
+| Project              | Project review type           | Date              | Review type         | Result          |
+|----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| PumpAMM              | Smart contract - Solana       | May 2024          | Private audit       |  Private        |
 | Allbridge Estrela    | Smart contract - Soroban      | April 2024        | Private audit       | [Audit report](https://allbridge.io/assets/docs/reports/24-03-1573-REP-Allbridge-Estrela-Review-V1.1.pdf) |
 | Allbridge Core       | Smart contract - Soroban      | February 2024     | Private audit       | [Audit report](https://allbridge.io/assets/docs/reports/24-01-1500-REP-Allbridge%20Soroban%20Bridge-v1.2.pdf) |
 | Olas                 | Smart contract - Solana       | January 2024      | Cantina Competition | [Rank: 5th](https://twitter.com/cantinaxyz/status/1769846698514231628) |
