@@ -16,6 +16,7 @@
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
 | CyberDEX             | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/CyberDEX-PublicSale-Audit_V1.1.pdf)              |
+| Enzym                | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/Enzym-Vesting-Audit_V1.2.pdf)              |
 | AAVE v3.1            | Smart contract      | May 2024          | Cantina Competition | [Rank: 3rd 🥉](https://twitter.com/cantinaxyz/status/1798461307257253910) |
 | Alchemix             | Smart contract      | April 2024        | Sherlock Contest    | [Rank: 1st 🥇](https://twitter.com/sherlockdefi/status/1791075521968681093) |
 | Optimism             | Smart contract      | April 2024        | Sherlock Contest    | [Rank: 6th ](https://twitter.com/sherlockdefi/status/1790839827635511674) |
