@@ -16,6 +16,11 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Ironclad - IUSD      | Smart contract      | July 2024         | Private audit       | [Audit report](./reports/ByteMasons-iUSD_Zigtur_Audit_V1.1.pdf)        |
+| Reliquary V2 - Ironclad Rehypothecation Ramses| Smart contract | July 2024| Private audit | [Audit report](./reports/ByteMasons-ReliquaryV2_Zigtur_Audit_V1.1.pdf)|
+| Ironclad Reaper Strategy Option Token Compounder| Smart contract| July 2024| Private audit| [Audit report](./reports/ByteMasons-OptionsCompounder_Zigtur_Audit_V1.1.pdf) |
+| Ironclad Option Token Zap| Smart contract  | July 2024         | Private audit       | [Audit report](./reports/ByteMasons-oTokenZAP_Zigtur_Audit_V1.2.pdf)      |
+| Cod3x Leverager      | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/Granary-Leverager_Zigtur_Audit_V1.1.pdf)         |
 | CyberDEX             | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/CyberDEX-PublicSale-Audit_V1.1.pdf)              |
 | Enzym                | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/Enzym-Vesting-Audit_V1.2.pdf)              |
 | AAVE v3.1            | Smart contract      | May 2024          | Cantina Competition | [Rank: 3rd 🥉](https://twitter.com/cantinaxyz/status/1798461307257253910) |
