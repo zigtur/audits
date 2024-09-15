@@ -44,10 +44,14 @@
 
 
 
-## Learnings
+## Learnings & Side-projects
 
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
+| RareSkills - Rust bootcamp Instructor | Rust       | August to October 2024  | N/A |
+| Vulnerable HTTP server              | Rust         | August 2024             | [vulnerable-HTTP-server](https://github.com/zigtur/vulnerable-HTTP-server) |
+| Vulnerable NEAR contract            | Rust         | August 2024             | [vulnerable-NEAR-contract](https://github.com/zigtur/vulnerable-NEAR-contract) |
+| Vulnerable Soroban contract         | Rust         | August 2024             | [vulnerable-NFT-soroban](https://github.com/zigtur/vulnerable-NFT-soroban) |
 | BLS signature                       | Cryptography | March 2024              | [BLS-signature](https://github.com/zigtur/BLS-signature) |
 | Groth16 Python implementation       | Cryptography | November 2023           | [Groth16](https://github.com/zigtur/Groth16)|
 | RareSkills ZK Book                  | Cryptography | November 2023           | [Rareskills-ZK-book](https://github.com/zigtur/Rareskills-ZK-book)  |
