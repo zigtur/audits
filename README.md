@@ -4,6 +4,7 @@
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| Private              | Smart contract - Solana       | June 2024          | Private audit       | Private         |
 | Grass                | Smart contract - Solana       | June 2024         | Cantina Competition | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/3211ee0d-133f-43a0-837e-8dc1ecfaa424) |
 | PumpAMM              | Smart contract - Solana       | May 2024          | Private audit       |  Private        |
 | Allbridge Estrela    | Smart contract - Soroban      | April 2024        | Private audit       | [Audit report](https://allbridge.io/assets/docs/reports/24-03-1573-REP-Allbridge-Estrela-Review-V1.1.pdf) |
