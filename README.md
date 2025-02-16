@@ -4,6 +4,7 @@
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| Tensor              | Smart contract - Solana | November 2024 | Cantina Competition | [Rank: 1st 🥇](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) |
 | Private              | Smart contract - Solana | October 2024 | Private audit | Private |
 | Layer N              | Node                          | August 2024       | Cantina audit       | [Audit report](https://cantina.xyz/portfolio/6e130af9-2dbf-41f3-8cd7-df28be1006f2) |
 | Private              | Smart contract - Solana       | June 2024          | Private audit      | Private         |
@@ -19,6 +20,7 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| InfinityPools        | Smart contract      | October 2024 | Cantina Competition | [Rank: 4th](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3/leaderboard) |
 | Ironclad - IUSD      | Smart contract      | July 2024         | Private audit       | [Audit report](./reports/ByteMasons-iUSD_Zigtur_Audit_V1.1.pdf)        |
 | Reliquary V2 - Ironclad Rehypothecation Ramses| Smart contract | July 2024| Private audit | [Audit report](./reports/ByteMasons-ReliquaryV2_Zigtur_Audit_V1.1.pdf)|
 | Ironclad Reaper Strategy Option Token Compounder| Smart contract| July 2024| Private audit| [Audit report](./reports/ByteMasons-OptionsCompounder_Zigtur_Audit_V1.1.pdf) |
@@ -42,6 +44,8 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Berachain    | Infrastructure - Cosmos SDK        | January 2024     | Cantina Competition  | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
+| Omni         | Infrastructure - Cosmos SDK        | November 2024     | Cantina Competition  | [Rank: 4th](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090/leaderboard) |
 | Babylon Chain        | Infrastructure                       | June 2024     | Cantina Competition  | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/b7c7def5-1033-4a4c-809d-08e507fb3583) |
 | Blast                | Smart contract & Infrastructure (Go) | February 2024 | Cantina Competition  | [Rank: 6th](https://cantina.xyz/leaderboard/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) |
 
