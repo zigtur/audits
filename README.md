@@ -6,7 +6,7 @@
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
 | Tensor              | Smart contract - Solana | November 2024 | Cantina Competition | [Rank: 1st 🥇](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) |
 | Private              | Smart contract - Solana | October 2024 | Private audit | Private |
-| Layer N              | Node                          | August 2024       | Cantina audit       | [Audit report](https://cantina.xyz/portfolio/6e130af9-2dbf-41f3-8cd7-df28be1006f2) |
+| Layer N              | Node                          | August 2024       | Cantina review       | [Audit report](https://cantina.xyz/portfolio/6e130af9-2dbf-41f3-8cd7-df28be1006f2) |
 | Private              | Smart contract - Solana       | June 2024          | Private audit      | Private         |
 | Grass                | Smart contract - Solana       | June 2024         | Cantina Competition | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/3211ee0d-133f-43a0-837e-8dc1ecfaa424) |
 | PumpAMM              | Smart contract - Solana       | May 2024          | Private audit       |  Private        |
@@ -20,6 +20,8 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Optimism - EIP-7702 integration | Smart contract      | February 2025     | Cantina review      | [Audit report](https://cantina.xyz/portfolio/0cfa9684-6bf5-4191-a25e-29af19d67185) |
+| Inclusive Finance    | Smart contract      | January 2025     | Cantina Competition | [Rank: 3rd 🥉](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0/leaderboard) |
 | InfinityPools        | Smart contract      | October 2024 | Cantina Competition | [Rank: 4th](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3/leaderboard) |
 | Ironclad - IUSD      | Smart contract      | July 2024         | Private audit       | [Audit report](./reports/ByteMasons-iUSD_Zigtur_Audit_V1.1.pdf)        |
 | Reliquary V2 - Ironclad Rehypothecation Ramses| Smart contract | July 2024| Private audit | [Audit report](./reports/ByteMasons-ReliquaryV2_Zigtur_Audit_V1.1.pdf)|
@@ -61,6 +63,6 @@
 | Vulnerable Soroban contract         | Rust         | August 2024             | [vulnerable-NFT-soroban](https://github.com/zigtur/vulnerable-NFT-soroban) |
 | BLS signature                       | Cryptography | March 2024              | [BLS-signature](https://github.com/zigtur/BLS-signature) |
 | Groth16 Python implementation       | Cryptography | November 2023           | [Groth16](https://github.com/zigtur/Groth16)|
-| RareSkills ZK Book                  | Cryptography | November 2023           | [Rareskills-ZK-book](https://github.com/zigtur/Rareskills-ZK-book)  |
-| RareSkills Solidity Bootcamp        | Solidity     | February to July 2023   | [Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) |
+| RareSkills ZK Book (Student)        | Cryptography | November 2023           | [Rareskills-ZK-book](https://github.com/zigtur/Rareskills-ZK-book)  |
+| RareSkills Solidity Bootcamp (Student)  | Solidity     | February to July 2023   | [Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) |
 
