@@ -4,6 +4,7 @@
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| Sats Bridge          | Lightning Network - Plugin    | January 2025      | Cantina review      | [Audit report](https://cantina.xyz/portfolio/0612bc9f-a542-415f-98eb-fd3811d0fe4f) |
 | Tensor              | Smart contract - Solana | November 2024 | Cantina Competition | [Rank: 1st 🥇](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) |
 | Private              | Smart contract - Solana | October 2024 | Private audit | Private |
 | Layer N              | Node                          | August 2024       | Cantina review       | [Audit report](https://cantina.xyz/portfolio/6e130af9-2dbf-41f3-8cd7-df28be1006f2) |
@@ -46,6 +47,7 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Ronin Network   | Infrastructure - go-ethereum  | January 2024     | Cantina Competition  | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
 | Berachain    | Infrastructure - Cosmos SDK        | January 2024     | Cantina Competition  | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
 | Omni         | Infrastructure - Cosmos SDK        | November 2024     | Cantina Competition  | [Rank: 4th](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090/leaderboard) |
 | Babylon Chain        | Infrastructure                       | June 2024     | Cantina Competition  | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/b7c7def5-1033-4a4c-809d-08e507fb3583) |
