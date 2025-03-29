@@ -47,8 +47,8 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
-| Ronin Network   | Infrastructure - go-ethereum  | January 2024     | Cantina Competition  | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
-| Berachain    | Infrastructure - Cosmos SDK        | January 2024     | Cantina Competition  | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
+| Ronin Network   | Infrastructure - go-ethereum  | January 2025     | Cantina Competition  | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
+| Berachain    | Infrastructure - Cosmos SDK        | January 2025     | Cantina Competition  | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
 | Omni         | Infrastructure - Cosmos SDK        | November 2024     | Cantina Competition  | [Rank: 4th](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090/leaderboard) |
 | Babylon Chain        | Infrastructure                       | June 2024     | Cantina Competition  | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/b7c7def5-1033-4a4c-809d-08e507fb3583) |
 | Blast                | Smart contract & Infrastructure (Go) | February 2024 | Cantina Competition  | [Rank: 6th](https://cantina.xyz/leaderboard/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) |
