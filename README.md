@@ -4,6 +4,7 @@
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| OpenVM            | Zero Knowledge          | February 2025      | Cantina Competition      | [Rank: 4th](https://cantina.xyz/competitions/c486d600-bed0-4fc6-aed1-de759fd29fa2/leaderboard) |
 | Sats Bridge          | Lightning Network - Plugin    | January 2025      | Cantina review      | [Audit report](https://cantina.xyz/portfolio/0612bc9f-a542-415f-98eb-fd3811d0fe4f) |
 | Tensor              | Smart contract - Solana | November 2024 | Cantina Competition | [Rank: 1st 🥇](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) |
 | Private              | Smart contract - Solana | October 2024 | Private audit | Private |
