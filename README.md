@@ -45,7 +45,6 @@
 | 3DNS                 | Smart contract      | February 2024     | Cantina Competition | [Rank: 1st 🥇](https://twitter.com/cantinaxyz/status/1783920660357497035) |
 | Blast                | Smart contract & Infrastructure (Go) | February 2024 | Cantina Competition  | [Rank: 6th](https://cantina.xyz/leaderboard/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) |
 | Opal                 | Smart contract      | February 2024     | Cantina Competition | [Rank: 16th](https://twitter.com/cantinaxyz/status/1778504096326017172) |
-| zkSync Era           | Smart contract & Infrastructure (Rust) | October 2023 | Code4rena Contest  | [Rank: 16th](https://code4rena.com/audits/2023-10-zksync-era) & [Blogpost](https://blog.quarkslab.com/zksync-transaction-workflow.html) |
 |  HeyMint             | Smart contract      | July 2023         | Private audit       | [Audit report](https://github.com/zigtur/HeyMint-audit/tree/master/ERC1155)  |
 |  HeyMint             | Smart contract      | April 2023        | Private audit       | [Audit report](https://github.com/zigtur/HeyMint-audit/tree/master/ERC721)  |
 
