@@ -26,6 +26,7 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Ethereum Pectra      | Infrastructure (Go, Rust, Java, C#, ...) | March 2025        | Cantina Competition | [Rand: 2nd](https://cantina.xyz/competitions/pectra/leaderboard)        |
 | Optimism - EIP-7702 integration | Smart contract      | February 2025     | Cantina review      | [Audit report](https://cantina.xyz/portfolio/0cfa9684-6bf5-4191-a25e-29af19d67185) |
 | Inclusive Finance    | Smart contract      | January 2025     | Cantina Competition | [Rank: 3rd 🥉](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0/leaderboard) |
 | InfinityPools        | Smart contract      | October 2024 | Cantina Competition | [Rank: 4th](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3/leaderboard) |
