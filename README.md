@@ -56,7 +56,7 @@
 | Private              | Infrastructure                          | March 2025          | Private audit        | Private             |
 | Ronin Network        | Infrastructure - go-ethereum            | January 2025        | Cantina Competition  | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
 | Berachain            | Infrastructure - Cosmos SDK             | January 2025        | Cantina Competition  | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
-| Private              | Infrastructure & Smart contract         | December 2024       | Private audit        | Private             |
+| Base Op-Enclave      | Infrastructure & Smart contract         | December 2024       | Private audit        | [Audit report](https://github.com/base/op-enclave/blob/main/audits/report-cantinacode-1223.pdf)  |
 | Private              | Infrastructure & Smart contract         | December 2024       | Private audit        | Private             |
 | Omni                 | Infrastructure - Cosmos SDK             | November 2024       | Cantina Competition  | [Rank: 4th](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090/leaderboard) |
 | Babylon Chain        | Infrastructure                          | June 2024           | Cantina Competition  | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/b7c7def5-1033-4a4c-809d-08e507fb3583) |
