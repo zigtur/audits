@@ -5,11 +5,11 @@
 | Project              | Project review type             | Date              | Review type         | Result          |
 |----------------------|---------------------------------|-------------------|---------------------|-----------------|
 | Private              | Solana program & mobile app     | September 2025    | Private audit       | Private         |
-| PrivacyCash          | Solana program & Circom circuits| September 2025    | Private audit       | [Audit report](https://github.com/Privacy-Cash/privacy-cash/blob/main/audits/zigtur_audit.pdf) |
+| PrivacyCash          | Solana program & ZK circuits    | September 2025    | Private audit       | [Audit report](./reports/privacy-cash_zigtur_audit_V1.6.pdf)    |
+| OpenVM               | Zero Knowledge                  | September 2025       |  Cantina review     | [Audit report](https://cantina.xyz/portfolio/a07e179d-fe4b-4ae3-a015-c7fdad292984) |
 | Private              | Solana program                  | August 2025       | Private audit       | Private         |
 | OpenVM               | Zero Knowledge                  | August 2025       |  Cantina review     | [Audit report](https://cantina.xyz/portfolio/3bb48939-f1ed-4df5-b1de-21826857735d) |
 | Private              | Solana program                  | July 2025         | Cantina review      | Private         |
-| Private              | Infrastructure & ZK             | May-June 2025     | Cantina review      | Private         |
 | Private              | Infrastructure & ZK             | May-June 2025     | Cantina review      | Private         |
 | Private              | Solana program                  | April 2025        | Private audit       | Private         |
 | LingoToken           | Solana program                  | February 2025     | Cantina review      | [Audit report](https://cantina.xyz/portfolio/7500c72a-c214-4aef-aff6-04a6fd337cab) |
@@ -25,8 +25,8 @@
 | Private              | Solana program                  | June 2024         | Private audit       | Private         |
 | Grass                | Solana program                  | June 2024         | Cantina Competition | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/3211ee0d-133f-43a0-837e-8dc1ecfaa424) |
 | PumpAMM              | Solana program                  | May 2024          | Private audit       |  Private        |
-| Allbridge Estrela    | Smart contract - Soroban        | April 2024        | Private audit       | [Audit report](https://allbridge.io/assets/docs/reports/24-03-1573-REP-Allbridge-Estrela-Review-V1.1.pdf) |
-| Allbridge Core       | Smart contract - Soroban        | February 2024     | Private audit       | [Audit report](https://allbridge.io/assets/docs/reports/24-01-1500-REP-Allbridge%20Soroban%20Bridge-v1.2.pdf) |
+| Allbridge Estrela    | Smart contract - Soroban        | April 2024        | Private audit       |  Private |
+| Allbridge Core       | Smart contract - Soroban        | February 2024     | Private audit       |  Private |
 | Olas                 | Solana program                  | January 2024      | Cantina Competition | [Rank: 5th](https://twitter.com/cantinaxyz/status/1769846698514231628) |
 | Opus                 | Smart contract - Cairo          | January 2024      | Code4rena Contest   | [Rank: 5th](https://code4rena.com/audits/2024-01-opus) |
 
@@ -34,6 +34,11 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Private              | Smart contract      | October - December 2025  | Private audit      | Private    |
+| Private              | Smart contract      | October 2025    | Private audit      | Private    |
+| Private              | Smart contract      | October 2025    | Cantina review      | Private    |
+| Private              | Smart contract      | October 2025    | Cantina review      | Private    |
+| Private              | Smart contract      | September 2025    | Cantina review      | Private    |
 | Private              | Smart contract      | September 2025    | Cantina review      | Private    |
 | Cap Protocol | Smart contract      | April 2025     | Private audit      | [Audit report](./reports/Cap_Audit_V1.2.pdf) |
 | Ethereum Pectra      | Infrastructure (Go, Rust, Java, C#, ...) | March 2025        | Cantina Competition | [Rand: 2nd 🥈](https://cantina.xyz/competitions/pectra/leaderboard)        |
@@ -63,6 +68,7 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Private              | Infrastructure - geth/reth              | November 2025    | Cantina review      | Private    |
 | Optimism Interop     | Infrastructure                          | March 2025          | Cantina review       | [Audit report](https://cantina.xyz/portfolio/2350b690-8248-44de-a084-6f1bfade3bc0)  |
 | Ronin Network        | Infrastructure - go-ethereum            | January 2025        | Cantina Competition  | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
 | Berachain            | Infrastructure - Cosmos SDK             | January 2025        | Cantina Competition  | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
