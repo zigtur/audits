@@ -39,6 +39,12 @@
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Kiln - Phase 3       | Smart contract      | May - June 2026   | Spearbit review     | [Audit report](https://cantina.xyz/portfolio/df54c168-4c0d-4881-8f88-a34669a21c6c)    |
+| Kiln - Phase 2       | Smart contract      | April 2026        | Spearbit review     | [Audit report](https://cantina.xyz/portfolio/5241afce-4a5d-4e85-888d-d621fd4e75d8)    |
+| Kiln - Phase 1       | Smart contract      | February - March 2026 | Spearbit review | [Audit report](https://cantina.xyz/portfolio/69b5186e-9db8-458f-aa5b-afde6eee1baa)    |
+| Coinbase Proof update | Smart contract     | June 2026         | Cantina review     | [Audit report](https://cantina.xyz/portfolio/6ce647dc-3b2c-448c-9421-426087341ce8)    |
+| Coinbase Nitro Enclave | Smart contract    | April 2026        | Cantina review     | [Audit report](https://cantina.xyz/portfolio/a4f952cf-1c5b-4e3c-8153-c3adff899613)    |
+| Coinbase Nitro TEE   | Smart contract      | March 2026        | Cantina review     | [Audit report](https://cantina.xyz/portfolio/423a9f33-b710-4445-a125-950b0a7771d7)    |
 | Private              | Smart contract      | October - December 2025  | Private audit      | Private    |
 | Private              | Smart contract      | October 2025    | Private audit      | Private    |
 | Private              | Smart contract      | October 2025    | Cantina review      | Private    |
